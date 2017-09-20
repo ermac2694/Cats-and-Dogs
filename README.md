@@ -1,3 +1,3 @@
 # Cats-and-Dogs
-Python script using DNN in tensorflow to distinguish cats and dogs
+Python script using CNN in tensorflow to distinguish cats and dogs
 
